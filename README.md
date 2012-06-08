@@ -27,6 +27,6 @@ weibobak
 - deploy.bat --打包脚本*（打包后的东西全在target目录里）*
 - eclipse.bat --生成eclipse工程
 - src/main/java --源代码
-- src/main/resources --配置文件目录 
->> - weibobak.properties --本程序的配置文件
->> - config.properties --微博sdk的配置文件
+- src/main/resources --配置文件目录  
+>> - weibobak.properties --本程序的配置文件  
+>> - config.properties --微博sdk的配置文件  
