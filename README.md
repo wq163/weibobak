@@ -4,7 +4,7 @@ weibobak
 
 本程序用于学习交流
 
-## **GET START** ##
+## **Get Started** ##
 点击deploy.bat打包，然后进入target\weibobak.dir\weibobak这个目录，里面的结构为：  
 >  - weibobak  
 - bakdir  
