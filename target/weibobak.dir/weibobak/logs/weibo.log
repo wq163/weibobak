@@ -1,0 +1,49 @@
+0    INFO  [2012-06-06 17:58:28]  init ReadableTextAppender...
+576  INFO  [2012-06-06 17:58:29]  获取第1页,50条.
+591  ERROR [2012-06-06 17:58:29]  备份过程中失败.
+java.lang.NullPointerException
+	at org.github.weibobak.Favorites.ReadableTextFavoritesProcessor.inputTitle(ReadableTextFavoritesProcessor.java:73)
+	at org.github.weibobak.Favorites.ReadableTextFavoritesProcessor.process(ReadableTextFavoritesProcessor.java:57)
+	at org.github.weibobak.Favorites.FavoriteBak.processFavors(FavoriteBak.java:83)
+	at org.github.weibobak.Favorites.FavoriteBak.doBak(FavoriteBak.java:60)
+	at org.github.weibobak.Favorites.FavoriteBak.main(FavoriteBak.java:38)
+0    INFO  [2012-06-06 18:00:53]  init ReadableTextAppender...
+726  INFO  [2012-06-06 18:00:54]  获取第1页,50条.
+0    INFO  [2012-06-06 18:04:04]  init ReadableTextAppender...
+637  INFO  [2012-06-06 18:04:05]  获取第1页,50条.
+644  ERROR [2012-06-06 18:04:05]  备份过程中失败.
+java.lang.NullPointerException
+	at org.github.weibobak.Favorites.ReadableTextFavoritesProcessor.inputTitle(ReadableTextFavoritesProcessor.java:75)
+	at org.github.weibobak.Favorites.ReadableTextFavoritesProcessor.process(ReadableTextFavoritesProcessor.java:57)
+	at org.github.weibobak.Favorites.FavoriteBak.processFavors(FavoriteBak.java:83)
+	at org.github.weibobak.Favorites.FavoriteBak.doBak(FavoriteBak.java:60)
+	at org.github.weibobak.Favorites.FavoriteBak.main(FavoriteBak.java:38)
+0    INFO  [2012-06-06 18:09:20]  init ReadableTextAppender...
+607  INFO  [2012-06-06 18:09:21]  获取第1页,50条.
+1185 INFO  [2012-06-06 18:09:21]  获取第2页,50条.
+2025 INFO  [2012-06-06 18:09:22]  获取第3页,50条.
+2597 INFO  [2012-06-06 18:09:23]  获取第4页,50条.
+3075 INFO  [2012-06-06 18:09:23]  获取第5页,50条.
+3695 INFO  [2012-06-06 18:09:24]  获取第6页,50条.
+4286 INFO  [2012-06-06 18:09:24]  获取第7页,50条.
+4952 INFO  [2012-06-06 18:09:25]  获取第8页,50条.
+5552 INFO  [2012-06-06 18:09:26]  获取第9页,50条.
+6218 INFO  [2012-06-06 18:09:26]  获取第10页,50条.
+6868 INFO  [2012-06-06 18:09:27]  获取第11页,42条.
+6872 INFO  [2012-06-06 18:09:27]  备份完成,共542条
+0    INFO  [2012-06-06 18:16:13]  init ReadableTextAppender...
+548  INFO  [2012-06-06 18:16:14]  获取第1页,50条.
+1196 INFO  [2012-06-06 18:16:15]  获取第2页,50条.
+1753 INFO  [2012-06-06 18:16:15]  获取第3页,50条.
+2388 INFO  [2012-06-06 18:16:16]  获取第4页,50条.
+2891 INFO  [2012-06-06 18:16:16]  获取第5页,50条.
+3381 INFO  [2012-06-06 18:16:17]  获取第6页,50条.
+4021 INFO  [2012-06-06 18:16:17]  获取第7页,50条.
+4699 INFO  [2012-06-06 18:16:18]  获取第8页,50条.
+5329 INFO  [2012-06-06 18:16:19]  获取第9页,50条.
+6017 INFO  [2012-06-06 18:16:19]  获取第10页,50条.
+6461 INFO  [2012-06-06 18:16:20]  获取第11页,42条.
+6466 INFO  [2012-06-06 18:16:20]  备份完成,共542条
+0    INFO  [2012-06-06 18:35:30]  init ReadableTextAppender...
+578  INFO  [2012-06-06 18:35:31]  获取第1页,50条.
+1271 INFO  [2012-06-06 18:35:31]  获取第2页,50条.
