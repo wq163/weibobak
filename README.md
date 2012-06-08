@@ -1,6 +1,6 @@
 weibobak
 ========
-这个小程序可以备份收藏微博的原始json格式的数据,也可以保存成易读的文本格式，还可以根据自己的需要扩展保存任何想要的格式(比如excel、html等)。  
+这个小程序可以备份收藏微博的原始json格式的数据,也可以保存成易读的文本格式，还可以根据自己的需要扩展保存任何想要的格式(比如excel、html等我就不一一实现了)。  
 
 本程序用于学习交流
 
@@ -28,5 +28,5 @@ weibobak
 - eclipse.bat --生成eclipse工程
 - src/main/java --源代码
 - src/main/resources --配置文件目录 
->>- weibobak.properties --本程序的配置文件
->>- config.properties --微博sdk的配置文件
+>> weibobak.properties --本程序的配置文件
+>> config.properties --微博sdk的配置文件
