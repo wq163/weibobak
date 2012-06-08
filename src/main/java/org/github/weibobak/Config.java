@@ -20,6 +20,13 @@ public class Config {
     static {
         try {
             props.putAll(ResourceUtils.getResourceAsProperties("weibobak.properties", "UTF-8"));
+            if (StringUtils.isNotBlank(props.getProperty("client_ID"))) {
+                WeiboConfig.updateProperties("client_ID", props.getProperty("client_ID").trim());
+            }
+
+            if (StringUtils.isNotBlank(props.getProperty("client_SERCRET"))) {
+                WeiboConfig.updateProperties("client_SERCRET", props.getProperty("client_SERCRET").trim());
+            }
         }
         catch (Throwable e) {
             throw new RuntimeException("加载配置文件失败", e);
