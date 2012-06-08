@@ -28,5 +28,5 @@ weibobak
 - eclipse.bat --生成eclipse工程
 - src/main/java --源代码
 - src/main/resources --配置文件目录  
->> - weibobak.properties --本程序的配置文件  
->> - config.properties --微博sdk的配置文件  
+> > - weibobak.properties --本程序的配置文件  
+> > - config.properties --微博sdk的配置文件  
